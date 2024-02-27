@@ -1,3 +1,6 @@
+# VUE-EXPENSE-TRACKER
+![Vue-Expense-Tracker](./src/assets/images/vue-expense-tracker.jpeg)
+
 # Live Site
 
 [Vue-expense-checker](https://vue-expense-checker.netlify.app/)
