@@ -11,7 +11,7 @@ const toast = useToast();
 
 const transactions = ref([
   { id: 1, text: "Flower", amount: -19.99 },
-  { id: 2, text: "Gasoline", amount: -75 },
+  { id: 2, text: "Petrol", amount: -75 },
   { id: 3, text: "Book", amount: -16 },
   { id: 4, text: "Salary", amount: 3000 },
 ]);
